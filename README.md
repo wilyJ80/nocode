@@ -1,2 +1,7 @@
-# nocode
-The best code is no code.
+# Getting started
+
+- Run this command:
+
+`                               `
+
+Inspired by [this](https://github.com/kelseyhightower/nocode)
